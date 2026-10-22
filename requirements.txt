@@ -1,0 +1,56 @@
+# Milestone 2 Requirements
+# Context Processing, Question Generation, and Understanding Verification
+
+# Core LangGraph and LangChain
+langgraph
+langchain
+langchain-community
+langchain-core
+
+# LangSmith for monitoring and tracing
+langsmith
+
+# LLM Integration (Ollama)
+langchain-ollama
+ollama
+
+# Vector Database and Embeddings
+chromadb
+sentence-transformers
+torch
+transformers
+
+# Text Processing
+tiktoken
+nltk
+
+# Data Handling
+numpy
+pandas
+python-dotenv
+nest-asyncio
+
+# HTTP and Async
+httpx
+aiohttp
+
+# Logging and Configuration
+pydantic
+
+# Optional: Jupyter for interactive development
+jupyter
+ipykernel
+
+# Development and Testing
+pytest
+pytest-asyncio
+black
+isort
+
+# Additional utilities
+tqdm
+rich
+duckduckgo-search
+PyPDF2
+python-docx
+streamlit
